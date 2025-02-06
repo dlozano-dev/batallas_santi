@@ -17,8 +17,8 @@ class Profesor {
     }
   }
 
-  intimidar() {
-    return `hola soy el profesor de ${this.nombre}`;
+  examenSorpesa() {
+    return this.nota + 2;
   }
 }
 
