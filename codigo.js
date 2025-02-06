@@ -1,6 +1,7 @@
 import Alumno from './clasealumno.js';
 import Profesor from './claseporfesor.js';
 import Batalla from './clasebatalla.js';
+import Becario from './becario.js';
 
 window.addEventListener('DOMContentLoaded', () => {});
 
